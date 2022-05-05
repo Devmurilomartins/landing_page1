@@ -1,2 +1,2 @@
-# landing_page1
+# Landing Page 1
 Projeto que estou estudando neste mes
